@@ -2,6 +2,10 @@
 
 ### UNIkeEN means unicorn🦄!
 
+**「愿你与重要之人再相逢」**
+
+大切な人といつかまた巡り会えますように
+
 <!--
 **UNIkeEN/UNIkeEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
