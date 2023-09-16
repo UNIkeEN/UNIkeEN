@@ -1,5 +1,3 @@
-<!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=UNIkeEN)](https://github.com/anuraghazra/github-readme-stats)-->
-
 ### UNIkeEN means unicorn🦄!
 
 **「愿你与重要之人再相逢」**
