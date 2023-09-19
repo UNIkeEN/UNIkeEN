@@ -4,6 +4,8 @@
 
 大切な人といつかまた巡り会えますように
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UNIkeEN&layout=compact)
+
 <!--
 **UNIkeEN/UNIkeEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
