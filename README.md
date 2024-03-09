@@ -1,8 +1,13 @@
 ### UNIkeEN means unicorn🦄!
 
-**「愿你与重要之人再相逢」**
+**「愿你与重要之人再相逢」** 大切な人といつかまた巡り会えますように
 
-大切な人といつかまた巡り会えますように
+---
+
+- 🎓 Undergraduate in [@SJTU-CSE](https://github.com/SJTU-CSE)
+- 🔭 Interested in computer graphics and machine learning
+- 🛠️ Full-stack Web Developer ( React, Django )
+- 🎨 Game Designer of [SJMC](https://mc.sjtu.cn/%e5%85%b3%e4%ba%8e/) , Dreaming of developing games
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UNIkeEN&layout=compact)
 
