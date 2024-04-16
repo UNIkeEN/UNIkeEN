@@ -10,6 +10,7 @@
 - 🎨 Game designer of [SJMC](https://mc.sjtu.cn/%e5%85%b3%e4%ba%8e/) , dreaming of developing games
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UNIkeEN&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=UNIkeEN&rank_icon=github&show_icons=true" height="165px"/>
 
 <!--
 **UNIkeEN/UNIkeEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
