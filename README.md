@@ -6,8 +6,8 @@
 
 - 🎓 Undergraduate in [@SJTU-CSE](https://github.com/SJTU-CSE)
 - 🔭 Interested in computer graphics and machine learning
-- 🛠️ Full-stack web developer (React, Django) - Member of [@ChatSJTU Team](https://github.com/ChatSJTU) and [@SJTU-Plus](https://github.com/SJTU-Plus)
-- 🎨 Game designer of [SJMC](https://mc.sjtu.cn/welcome/) , dreaming of developing games
+- 🛠️ Full-stack web developer (React, Django, Tauri) - Member of [@ChatSJTU Team](https://github.com/ChatSJTU) and [@SJTU-Plus](https://github.com/SJTU-Plus)
+- 🎨 Game designer of [SJMC](https://github.com/SJMC-Dev), dreaming of developing games
 
 ![Top Langs](https://github-readme-stats-git-master-unikeens-projects.vercel.app/api/top-langs/?username=UNIkeEN&layout=compact)
 <img src="https://github-readme-stats-git-master-unikeens-projects.vercel.app/api?username=UNIkeEN&rank_icon=github&show_icons=true" height="165px"/>
