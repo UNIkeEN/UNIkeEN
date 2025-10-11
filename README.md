@@ -4,7 +4,7 @@
 
 ---
 
-- 🎓 Undergraduate in [@SJTU-CSE](https://github.com/SJTU-CSE)
+- 🎓 PhD student and previously B.S. at [@SJTU-CSE](https://github.com/SJTU-CSE)
 - 🔭 Interested in computer graphics and machine learning
 - 🛠️ Full-stack web developer (React, Django, Tauri) - Member of [@ChatSJTU Team](https://github.com/ChatSJTU) and [@SJTU-Plus](https://github.com/SJTU-Plus)
 - 🎨 Game designer of [SJMC](https://github.com/SJMC-Dev), dreaming of developing games
